@@ -15,7 +15,7 @@ You play as SAM, a robot tasked of saving the president from his kidnappers. <br
 To do so, you have to infiltrate a secret laboratory, you may kill as many enemies as you want but if the alarm is activated the mission will fail.
 <hr /><br />
 
-![png](./Screenshots/Menu.png)
+![PNG](./Screenshots/Menu.PNG)
 ## **Commands :**
 - On keyboard and mouse:
     - W/S : Move forward/backward
@@ -58,7 +58,7 @@ Enemy:
 - Enemies can communicate (share alerts and level of awareness) if they are in range of each other
 - Enemies will detect corpses
 
-![png](./Screenshots/President.png)
+![PNG](./Screenshots/President.PNG)
 ## **Hardest part:**
 - Light system detection
 - Optimizing for the PS4
